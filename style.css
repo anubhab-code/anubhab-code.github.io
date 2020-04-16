@@ -44,7 +44,7 @@ html, body {
             width: 0;
       }
       to {
-            width: 18em;
+            width: 10em;
       }
 }
 
@@ -54,7 +54,7 @@ html, body {
                   width: 0;
             }
             to {
-                  width: 17em;
+                  width: 10em;
             }
       }
 }
