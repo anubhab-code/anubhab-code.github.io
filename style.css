@@ -23,7 +23,7 @@ html, body {
 
 /*--------------- typewriter effect --------------- */
 .line {
-      width: 16em;
+      width: 10em;
       top: 50%;
       margin: auto;
       border-right: 2px solid rgba(255, 255, 255, 0.75);
@@ -32,6 +32,7 @@ html, body {
       overflow: hidden;
       transform: translateY(-50%);
 }
+
 
 .anim-typewriter {
       animation: typewriter 4s steps(40) 1s 1 normal both,
