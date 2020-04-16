@@ -23,7 +23,7 @@ html, body {
 
 /*--------------- typewriter effect --------------- */
 .line {
-      width: 16em;
+      width: 24em;
       top: 50%;
       margin: auto;
       border-right: 2px solid rgba(255, 255, 255, 0.75);
@@ -48,7 +48,7 @@ html, body {
       }
 }
 
-@media(max-width: 700px) {
+@media(max-width: 768px) {
       @keyframes typewriter {
             from {
                   width: 0;
