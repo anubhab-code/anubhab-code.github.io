@@ -24,6 +24,17 @@
   color: rgb(255, 255, 255);
 }
 
+.gallery-section h2{
+  text-align: right;
+  text-transform: lowercase;
+  color: rgb(255, 255, 255);
+}
+
+.gallery-section a{
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
 .border{
   width: 1px;
   height: 1px;
